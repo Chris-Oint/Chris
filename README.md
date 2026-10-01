@@ -1,15 +1,15 @@
 # Chris
 
-Bible complète, brochures complètes et références croisées validées.
+Application Bible complète, brochures complètes et références croisées validées.
 
-## Application
+## Application principale
 
-- [Ouvrir l'application HTML](./Bible-brochures-references.html)
-- [Télécharger l'HTML](./Bible-brochures-references.html)
+- [Ouvrir la démo](./index.html)
+- [Télécharger l'application HTML](./index.html)
+
+L’interface principale provient de `index-19.html`. Les données intégrées sont la Bible complète, les 1 595 brochures des cinq zones et les 162 823 références croisées validées, sans extraits de preuve ni arguments.
 
 ## Références croisées validées
-
-Le paquet contient **162 823 relations** et un guide d’intégration pour une autre Bible ou plateforme.
 
 - [PDF exhaustif — toutes les références](./cross-references/REFERENCES-CROISEES-VALIDEES-COMPLETES.pdf)
 - [ZIP complet pour intégration](./references-croisees-validees.zip)
