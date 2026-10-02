@@ -1,0 +1,32 @@
+{
+  "format": "reserve-inventory-v1",
+  "source_repository": "https://github.com/Chris-Oint/Chris",
+  "source_application": "index.html",
+  "source_commit": "main at extraction time",
+  "bible_books": 66,
+  "brochure_metadata": 1595,
+  "validated_links": 162823,
+  "brochure_zones": {
+    "1": {
+      "documents": 265,
+      "hits": 17734
+    },
+    "2": {
+      "documents": 291,
+      "hits": 25441
+    },
+    "3": {
+      "documents": 306,
+      "hits": 28133
+    },
+    "4": {
+      "documents": 315,
+      "hits": 41662
+    },
+    "5": {
+      "documents": 418,
+      "hits": 49853
+    }
+  },
+  "preservation_rule": "The published application files at repository root are preserved unchanged; Réserve is an autonomous copy of the data for reconstruction."
+}
